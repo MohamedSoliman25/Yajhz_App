@@ -1,3 +1,26 @@
 <resources>
     <string name="app_name">Yajhz</string>
+    <string name="signup">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="name_hint">Write 14 character</string>
+    <string name="email">Email</string>
+    <string name="email_hint">Write your email</string>
+    <string name="phone">Phone Number</string>
+    <string name="phone_hint">Write 11 numbers</string>
+    <string name="password">Password</string>
+    <string name="password_hint">Write 8 character at least</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="confirm_password_hint">Write your password again</string>
+    <string name="have_account">have an account ?</string>
+    <string name="login">Log in</string>
+    <string name="dont_have_account">Don\'t have an account</string>
+    <string name="home">Home</string>
+    <string name="hello">Hello</string>
+    <string name="address">Address</string>
+    <string name="search_hint">Search for fav food...</string>
+    <string name="categories">Categories.</string>
+    <string name="filter">filter</string>
+    <string name="view_all">view all</string>
+    <string name="popular_now">Popular Now</string>
+    <string name="trending_now">Trending Now</string>
 </resources>
